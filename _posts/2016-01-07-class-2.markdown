@@ -1,0 +1,144 @@
+---
+layout: post
+title:  "Chapter 1"
+desc:   "The Role of Government 1"
+date:   2016-01-07 11:15:00 -0600
+category: BUS-1201
+permalink: /bus-1201/chapter1/
+---
+
+The role of the Canadian government in business. Each level of the government
+has their own responsibilities that affect businesses both locally and globally.
+The Canadian government also has a strong influence on the ethics and legality
+of businesses to ensure a high standard of living for Canadian citizens.
+{: .first}
+
+---
+
+##### Business
+An organization striving for profit through providing desired goods and services
+to customers.
+
+##### Standard of Living
+The country's goods and services that the people can buy with their money.
+
+##### Quality of Life
+The general level of human happiness using metrics such as life expectancy,
+education standards, sanitation, and leisure time.
+
+##### Risk
+The <del>CLG</del> potential for losing resources, such as time or money, or simply being
+unable to accomplish the organization's goals
+
+---
+
+#### Revenue - Costs = Profit
+
+|:-:|
+|**Revenue:** Money earned by company|**Cost:** Expenses needed to generate revenue|**Profit:** The difference between revenue and cost
+
+*Not-For-Profit organizations do not care about profit. But, they still follow
+sound business principles in order to be successful*
+
+---
+
+### Levels of Government
+
+#### Federal
+
+##### Oversees the Well-Being of Canada
+
+- Money and Banking *fiscal policy and taxation/spending*
+- Trade Regulation *tariffs, NAFTA, etc*
+- External Relations *who on good/bad terms with, like good term with US*
+- Defense
+- Criminal Law *like drinking and driving*
+- Transportation *things that cross over provincial/country borders like airplanes*
+
+#### Provincial
+
+##### Protection of Rights
+
+- labour laws *minimum wage, vacations, statutory holidays, overtime, etc*
+- education
+- health/welfare *medicare, don't have to pay for most medical things, unlike in US where you'd be banking just entering the hospital*
+- protection of property and civil rights *can move anywhere, in his example of soviet union one city was naval base, when tensions where high, needed permission to leave city for vacation*
+- natural resources *belongs to province, like oil belongs to Alberta, not the whole of Canada*
+- environment *making sure everything is healthy like water*
+
+#### Municipal
+
+##### Providing Services
+
+- water, sewer, waste collection *before 2 metal garbage cans, now we have 1 for garbage, 1 for recycling*
+- encourage economic development *like ikea, city spent money on infrastructure to make it want to come here, now other stores are coming in near ikea*
+- use bylaws to regulate *not cutting grass, or shoveling sidewalk, etc*
+
+#### Other
+
+##### Roles the government plays that aren't necessarily bound by their government level
+
+- Customer *Road builders' main customer is the government*
+- Competition *liquor in a few places, beer anywhere, etc*
+- Providing essential services *water, sewer, etc*
+- Provide incentives *employment insurance during downtime while taking courses
+  or training, or student loans to encourage studying for better opportunities*
+- Tax *Ensure that people/orgs pay for gov provided services in order to maintain them*
+- Regulator *like making seatbelts necessary, airbags, glass structure, in cars*
+
+---
+
+### Why should the government be able to regulate my business?
+*Because in exchange, the government can protect businesses and consumers.*
+
+#### Businesses:
+
+- **Patents:** Protection of inventors. Gives exclusive rights to the production,
+usage, and sale of an invention to the inventor. *like Apple vs Samsung, terrible example imo*
+- **Copyrights:** Protection of owners of intellectual property for their
+lifetime + 50 years after their death. Intellectual property includes works of art, music, literature *when radio plays someone's song, they have to pay*
+- **Trademarks:** Design, name, logo that  manufacturer uses to identify its products. *corner of Sherbrook and something there was HFC (some thing fried chicken), same colors, and font of the logo, obviously KFC didn't like that*, *Apple and Apple records had same logo*, *Bricks, and another local Brick furniture place thing*
+
+#### Consumers:
+
+- **Right of choice:** Must have choice on all the things, no one wants a Comcast
+- **Right of safety:** Fucking idiots man. Products need to have all sorts of labels on their products to protect themselves
+- **Right of honesty:** Like tobacco. Even if product was used as intended, its going to harm us.
+- **Right to be informed:** Products must have disclaimers. Businesses must be honest *GM Motors cars were shutting off, GM Motors knew about it, but sold them anyways*
+
+---
+
+##### Consumerism:
+A movement to increase rights of buyers in relation to sellers.
+
+##### Warranties:
+Guarantee of performance of the product by the seller. *Express Warranties* are
+guarantees explicitly noted by the seller, *Implicit Warranties* are guarantees
+imposed by the court, promising that the product willperform up to expected
+standards.
+
+##### Product Liability:
+Manufacturers and vendors are liable for the defects in the products they make
+and sell.
+
+
+##### Strict Liability:
+A concept with-in the product liability law under which a manufacturer is liable
+for personal injuries or property damage caused by defect in a product or
+packaging that does not meet industry standards.
+
+---
+
+#### Taxes Paid by Businesses
+- Income
+- Property
+- Payroll *when +1 million, have to pay tax*
+- Sales
+- Excise *like booze or tobacco, to make people not want to buy them*
+
+---
+
+#### Trends of politics and government roles
+- Increased interest/investment in clean tech *get money off for using geothermal, certain clean cars give you rebates, etc*
+- Increase demand for skilled labour *but immigrant people with skill are being told they have to redo the education or something*
+- Expectation of transparency in marketing, operations, corporate social responsibility.

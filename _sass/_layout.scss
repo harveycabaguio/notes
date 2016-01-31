@@ -1,0 +1,163 @@
+/*
+ * Grid
+ */
+.wrap {
+  display: -webkit-box;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100vw;
+  max-width: 100%; /* fixes scrollbar problem */
+}
+
+.col {
+  position: relative;
+  margin-left: $spacing-unit;
+  margin-right: $spacing-unit;
+
+  &.one {
+    width: calc(25vw - (#{$spacing-unit} * 2));
+  }
+
+  &.two {
+    width: calc(50vw - (#{$spacing-unit} * 2));
+  }
+}
+
+.push-1 {
+  left: 25vw;
+}
+.push-2{
+  left: 50vw;
+}
+
+@media (max-width: 420px) and (orientation: portrait) {
+  .push-1, .push-2 {
+    left: 0;
+  }
+  .col {
+    &.one, &.two {
+      width: calc(100vw - (#{$spacing-unit} * 2));
+    }
+  }
+}
+
+@media (min-width: 421px) and (max-width: 800px) and (orientation: portrait) {
+  .push-1, .push-2 {
+    left: 12.5vw;
+  }
+  .col {
+    &.one, &.two {
+      width: calc(75vw - (#{$spacing-unit} * 2));
+    }
+  }
+}
+
+/*
+ * Redo grid for markdown related things
+ */
+article > div > * {
+  position: relative;
+  left: 25vw;
+  margin-left: $spacing-unit;
+  margin-right: $spacing-unit;
+  width: calc(50vw - (#{$spacing-unit} * 2));
+}
+
+.col.two {
+  .col.one:first-child {
+    width: calc(50% - #{$spacing-unit});
+    margin-left: 0;
+  }
+  .col.one:last-child {
+    width: calc(50% - #{$spacing-unit});
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 420px) and (orientation: portrait) {
+  article > div > * {
+    left: 0;
+    width: calc(100vw - (#{$spacing-unit} * 2));
+  }
+}
+
+@media (min-width: 421px) and (max-width: 800px) and (orientation: portrait) {
+  article > div > * {
+    left: 12.5vw;
+    width: calc(75vw - (#{$spacing-unit} * 2));
+  }
+}
+
+/*
+ * Navigation
+ */
+nav {
+  border-top: 2px solid $brand-color;
+}
+
+nav a.logo {
+  line-height: 1;
+
+  & img {
+    margin-top: 12px;
+    margin-bottom: 12px;
+  }
+}
+
+nav a, footer a {
+  position:relative;
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: $spacing-unit;
+  padding-right: $spacing-unit;
+  outline: none;
+  line-height: 58px;
+
+  &:visited {
+    color: $brand-color;
+  }
+  &:active {
+    color: $background-color;
+  }
+
+}
+
+/*
+ * List of posts
+ */
+.post-list {
+  padding: 0;
+  list-style-type: none;
+
+  & > .wrap > p:first-child {
+    text-align: right;
+  }
+  & > .wrap > h4 {
+    line-height: $spacing-unit * 3.5;
+  }
+}
+
+/*
+ *
+ */
+footer {
+  position: absolute;
+  bottom: 0;
+  margin-top: $spacing-unit * 3;
+  border-bottom: 2px solid $brand-color;
+  overflow-x: hidden;
+
+  & a:link {
+    color: $text-color;
+  }
+  & a:visited {
+    color: $text-color;
+  }
+  & a:hover {
+    color: $brand-color;
+  }
+  & a:active {
+    color: $background-color;
+  }
+}
