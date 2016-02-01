@@ -1,0 +1,111 @@
+---
+layout: post
+title:  "Chapter 17"
+desc:   "The Role of Government 2: Understanding Money and the Canadian Financial System"
+date:   2016-01-12 11:15:00 -0600
+category: BUS-1201
+permalink: /bus-1201/chapter17/
+---
+
+The characteristics and functions of money, and the components of Canada's money
+supply. One of these components is the Bank of Canada, whose role is to manage
+the money supply. Along with the Bank of Canada, there exist other financial
+institutions
+{: .first}
+
+---
+
+### Money
+
+*Money* is anything that is acceptable as payment for goods and services
+
+#### Characteristics
+
+**Scarcity:** Money should be scarce enough to give it value, but not so scarce
+that its unavailable to the majority of people. *For this reason, pebbles cannot
+be money, because pebbles are everywhere.*
+
+**Durability:** Money must be long lasting. *Perishable foods cannot be money.*
+
+**Portability:** Money must be easy to move around.
+
+**Divisibility:** Money should have the ability to be divided into smaller parts,
+in order for transactions of all sizes and amounts to be possible.
+
+#### Functions
+
+**Medium of Exchange:** Money makes transactions easier. Money being a common
+form of payment is less complicated than the barter system.
+
+**Standard of Value:** The reason money is a good *medium of exchange* is
+because it can standardise the value of goods and services, making it easy to
+measure the value of products.
+
+**Store of Value:** Because money is a *standard of value*, it is used to hold
+wealth, as it retains its value over time.
+
+---
+
+##### Currency
+Bank notes and coins used as a medium of exchange.
+
+##### Demand Deposits
+Money kept in chequing accounts that can be withdrawn by depositors on demand.
+
+##### Time Deposits
+Money invested for a specific period of time.
+
+##### Term Deposits
+Deposits at a bank or other financial institution that pay interest but can't be
+withdrawn on demand.
+
+---
+
+### The Functions of the Bank of Canada
+
+#### The Canadian Money supply
+
+|**M1:** All the money/cash out there, and demand deposits|**M2:** Includes all of M1, personal savings, etc|**M2+:** Deposits that are non-bank, like credit unions or insurance
+
+#### What does the Bank of Canada do?
+
+**Conduct monetary policy:** One org that sets the standard, makes sure the Canadian dollar consistent
+
+**Supplies bank notes:** All money comes from here, also makes sure that the bank
+notes are secure against counterfeiting.
+
+**Promotes safety and efficiency of our financial system:** BoC policy prevented housing bubble by making sure people can pay the down payment and stuff (dunno if that's true or not lol)
+
+**Provides fund-management services:** Assists banks to get their money, like with armored vehicles and stuff.
+
+**Communicates its objectives openly and effectively**
+
+#### Bank of Canada's Tools for Monetary Policy
+
+**Open Market Operations:** Purchase or sale of Canadian government securities
+by the Bank of Canada in order to stimulate or slow down the economy.
+
+**Overnight Rate:** Signal from Bank of Canada to major participants in the
+money market on what the Bank of Canada's target rate is in the market for
+overnight funds.
+
+---
+
+### The Other Key Financial Institutions
+
+#### Depository
+- **Chartered Banks:** Profit-oriented financial institution that accepts
+deposits, makes business and consumer loans, invests in government and corporate
+securities, and provides other financial services.
+- **Trust Companies:** The only financial institution that can administer trusts
+*TD Canada Trust, used to be 2 companies, TD and Canada Trust*
+- **Credit Unions:** Typically small and locally owned, these are Not-For-Profit
+member-owned financial cooperatives that operate for the benefit of the members.
+
+#### Non-Depository
+- Insurance companies *Major suppliers of funds*
+- Pension Funds *Corporations, unions, and governments setting aside large pools
+of money to be later used to pay retirement funds to their employees or members*
+- Brokerage Companies *buy and sell securities (shares or bonds) for clients and
+gives them related advice*
+- Finance Companies *don't go here, interest is high, never take out a payday loan*
