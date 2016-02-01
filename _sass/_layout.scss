@@ -161,3 +161,9 @@ footer {
     color: $background-color;
   }
 }
+
+@media (max-width: 800px) and (orientation: portrait) {
+  body {
+    padding-bottom: (60px * 3) + ($spacing-unit * 3);
+  }
+}
