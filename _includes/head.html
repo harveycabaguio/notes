@@ -5,8 +5,15 @@
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="theme-color" content="#dc322f">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@harveycabaguio">
+  <meta name="twitter:creator" content="@harveycabaguio">
 
+  <meta property="og:title" content="Course Notes - Harvey Cabaguio">
+  <meta property="og:description" content="Blog containing the notes for Harvey's courses">
+
+  <link href='https://fonts.googleapis.com/css?family=Roboto+Slab|Roboto+Condensed:400,300' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 </head>

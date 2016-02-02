@@ -1,0 +1,158 @@
+---
+layout: post
+title:  "Chapter 8"
+desc:   "Forms of Business Ownership"
+date:   2016-02-02 11:15:00 -0600
+category: BUS-1201
+permalink: /bus-1201/chapter8/
+---
+
+##### Summary
+
+
+---
+
+### Advantages and Disadvantages of Sole Proprietorship
+
+##### Sole Proprietorship
+A business that is established, owned, operated, and usually financed by one person.
+
+|**Advantages**|**Disadvantages**|
+|Easy/inexpensive to form|Unlimited liability|
+|Profits go directly to owner|Difficulty in raising capital|
+|Direct control|Limited managerial experience|
+|Relative freedom from government regulations|Trouble finding qualified employees|
+|No corporate taxation|Personal time commitment|
+|asy to dissolve|Unstable business life|
+||Losses are owner's responsibility|
+
+---
+
+### Advantages and Disadvantages of Partnership
+
+##### Partnership
+Association between 2 or more individuals who operate a business together for profit.
+
+**General Partnership:**
+
+**Limited Partnership:**
+
+**Limited Liability Partnership:**
+
+|**Advantages**|**Disadvantages**|
+|||
+|||
+|||
+|||
+|||
+|||
+
+---
+
+### Corporate Structure, Its Advantage and Disadvantages, and Identifying a Special Type of Organization
+
+#### Corporation
+Legal entity with an existence and life separate from owners, who are not personally
+liable for the entity's debts.
+
+**Public Corporation:** Shares are widely held and available to the general public
+
+**Private Corporation:** Shares are not traded publicly and are not available to
+the public.
+
+#### Incorporation Process
+1. Select company's name
+2. Write incorporation papers
+3. Pay required fees and taxes
+4. Hold organizational meeting
+5. Adopt bylaws, elect directors, pass operating resolutions
+
+|**Advantages**|**Disadvantages**|
+|||
+|||
+|||
+|||
+|||
+
+#### One-Person Corporation
+
+A corporation with only one person as a shareholder. Common in professional
+industries such as medical doctors and lawyers, or trades such as plumbers and electricians.
+
+#### Crown Corporation
+
+Corporation that is owned by the federal or provincial government. *Manitoba
+Public Insurance* is an example of a crown corporation.
+
+---
+
+### Other Business Organization Options
+
+#### Cooperative
+Legal entities formed by people with similar interest, to reduce costs and gain
+economic power.
+
+#### Joint Venture
+Two or more companies that form an alliance to pursue a particular project for a
+specified time period.
+
+*Like oil companies forming an alliance because a project needs 20 billion dollars
+so companies would have shares of that 20 billion or something*
+
+#### Direct Selling
+
+Popular marketing structure that connects the sellers "directly" with the customers.
+
+Examples:
+- Avon Canada Inc.
+- Herbalife of Canada Ltd.
+- The Pampered Chef -- Canada Corp.
+
+---
+
+### Why Mergers and Acquisitions Can Be Important to a Company's Overall Growth
+
+##### Merger
+Combination of two or more companies to form a new company, often
+taking a new corporate identity.
+
+##### Acquisition
+Purchase of a company by another company or investor group.
+
+#### Types of Mergers and Acquisitions
+- **Horizontal:** Same industry at the same stage -- *like Burger King buying out
+Tim Hortons, both in same industry and are both fairly big corporations*
+- **Vertical:** Same industry at a different stage
+- **Conglomerate:** Different industry -- *I guess Alphabet would be a conglomerate?**
+- **Leveraged Buyout:** A corporate takeover financed by large amounts of borrowed money
+
+---
+
+### Identify When Franchising Is Appropriate, and Why It Is Growing in Importance
+
+#### Franchising: A Popular Trend
+
+Form of business organization based on business arrangement between a franchisor,
+who supplies the product concept, and the franchisee, who sells the products of
+the franchisor in a certain geographic area.
+
+*Tim Hortons is a franchise that people can open a business with*
+
+|**Advantages**|**Disadvantages**|
+|||
+|||
+|||
+|||
+
+---
+
+### List Trends That Could Affect Business Organizations in The Future
+
+- Joining forces (mergers and acquisitions)
+- Baby boomers rewrite rules of retirement
+- More  franchise innovations
+
+---
+
+### Term Test 1
+50 Multiple Choice, 5-6 short answer (do only 2). Need photo id. No hoodies
