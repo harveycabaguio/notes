@@ -4,6 +4,15 @@ layout: default
 <article class="wrap">
   <header class="col two push-1">
     <h1 itemprop="name headline">{{ page.title }}</h1>
+    <p class="first">{{ page.desc }}</p>
+    <hr>
+    <div class="col one">
+      <p>{{ page.date }}</p>
+    </div>
+    <div class="col one">
+      <p>{{ page.category }}</p>
+    </div>
+    <hr>
   </header>
   <div>
     {{ content }}

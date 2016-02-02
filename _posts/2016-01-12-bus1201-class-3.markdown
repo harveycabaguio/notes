@@ -7,11 +7,11 @@ category: BUS-1201
 permalink: /bus-1201/chapter17/
 ---
 
+##### Summary
 The characteristics and functions of money, and the components of Canada's money
 supply. One of these components is the Bank of Canada, whose role is to manage
 the money supply. Along with the Bank of Canada, there exist other financial
 institutions
-{: .first}
 
 ---
 

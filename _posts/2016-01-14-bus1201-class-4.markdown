@@ -1,0 +1,224 @@
+---
+layout: post
+title:  "Chapter 2"
+desc:   "Economics Evolving Systems"
+date:   2016-01-17 11:15:00 -0600
+category: BUS-1201
+permalink: /bus-1201/chapter2/
+---
+
+##### Summary
+
+
+---
+
+### Explain what economics is and how the three sectors of the economy are linked
+
+##### Economics
+The study of how society uses scarce resources to produce and distribute goods
+and services
+
+##### Microeconomics
+The sub-area of economics that focuses on individual parts of the economy, such
+as households or firms
+
+##### Macroeconomics
+The sub-area of economics that focuses on the economy as a whole by looking at
+aggregate data for large groups of people, companies, or products.
+
+---
+
+#### Factors of Productions: The Building Blocks of Business
+
+Factors of production are the resources used to create goods and services.
+
+**Natural Resources:** Commodities that are useful in their natural state.
+*Farmland, forests, mineral, oil deposits, and water are some examples.*
+
+**Labour:** Economic contributions of people working with their minds and muscles.
+
+**Capital:** Tools, machinery, equipment, and buildings used to produce goods
+and services and get them to the consumer.
+
+**Knowledge:**
+
+**Entrepreneurship:** People who combine the rest of these factors to produce
+goods or services with the intention of making a profit.
+
+---
+
+### Primary Features of Economic Systems
+
+##### What is an economic system?
+An economic system is the combination of policies, laws, and choices made by the
+a nations' governments to establish the systems that determine what goods and
+services are produced and how they are allocated.
+
+**Market Economy:** Also known as *Private Enterprise System* or *Capitalism*,
+is based on competition in the marketplace and private ownership of the factors
+of production (resources).
+
+A market economy guarantees certain economic rights: the right to own property,
+the right to make a profit, the right to make free choices, and the right to compete.
+
+*Factors owned and allocated by the marketplace*
+
+**Command Economy:** On the opposite end of the spectrum, often called *Planned
+Economy* or *Central Planning*, the government owns virtually all resources and
+controls all markets.
+
+The government, rather than competition, decides what and how much to produce,
+where to locate production facilities, where to acquire raw materials and
+supplies, who will get the output, and  what the prices will be.
+
+*Factors owned and allocated by the government*
+
+**Socialism:** An economy where basic industries are owned by the government or
+by the private sector, but under strong government control.
+
+*Factors owned and allocated by the government in major industries (such as
+transportation)*
+
+**Mixed Economies:** Using more than one economic system.
+
+*Some degree of the two or all three of the above*
+
+---
+
+### Four Types of Market Structure
+
+The number of suppliers in a market.
+
+**Perfect Competition:**
+- Large number of small business in the market
+- Businesses sell similar products (the products of 2 businesses are very much
+similar to each other)
+- Buyers and sellers in the market have good information about prices, sources
+of supply
+- Easy to open a new business or close an existing one
+
+**Monopolistic Competition:**
+- Many businesses are in the market
+- The businesses offer products that are close substitutes but still differ from
+another
+- It is relatively easy to enter the market
+
+**Oligopoly:**
+- Few companies produce most or all of the output
+- Large capital requirements or other factors limit the number of companies
+
+**Pure Monopoly:** The market structure in which a single company accounts for
+all industry sales. There is a large *barrier to entry* -- factors prevent new
+companies from competing equally with the existing company. These factors are
+often technical or legal conditions.
+
+---
+
+### Basic Microeconomic Concepts of Demand and Supply
+
+#### The Nature of Demand
+**Demand:** the quantity of a good or service that people are willing to buy at
+various prices. Demand is critical to businesses because it indicates how much
+can be sold and at one price
+
+**Demand Curve:** A graph showing the quantity of a good or service that people
+are willing to buy at a various prices
+
+#### The Nature of Supply
+**Supply:** The quantity of a good or service that businesses will make available
+at various prices.
+
+**Supply Curve:** A graph showing the quantity of a good or service that a
+business will make available at various prices.
+
+#### Equilibrium
+The point at which quantity demanded equals quantity supplied.
+
+|**Changes in Demand**                 |**Changes in Supply**                |
+|- change in customer income           |- new technology                     |
+|- changes in fashion or taste         |- change in price of resources       |
+|- change in price of related products |- change in price of related products|
+|- expectations about future prices    |- change in number of producers      |
+|- change in number of buyers          |- change in taxes                    |
+
+---
+
+### How Economic Growth, Full Employment, and Price Stability Indicate A Nation's Economic Health
+
+#### Macroeconomic Main Goals
+
+##### Striving for Economic Growth
+Increase in a nation's output of goods and services.
+
+**Gross National Product (GNP):** Measures what is produced by the nation
+regardless of where the factors of production are located.
+
+**Gross Domestic Product (GDP):** Total market value of all final goods and
+services produced within a nation's borders in a year.
+
+**Business Cycles:**
+An increase in business activity results in a rise in:
+
+- Output
+- Income
+- Employment
+- Prices
+
+*Eventually these all peak and decline*
+
+##### Full Employment
+Having jobs for all who want to and are able to work.
+
+Types of Unemployment:
+
+**Frictional:** Short-term unemployment unrelated to the business cycle. This
+unemployment is always present and has little impact on the economy.
+
+**Structural:** Unrelated to the business cycle, but unlike frictional unemployment,
+is involuntary.
+
+**Cyclical:** When a downturn in the business cycle reduces demand for labour
+throughout the economy.
+
+**Seasonal:** In certain industries, unemployment that occurs during specific seasons.
+
+##### Keeping Prices Steady
+
+**Inflation:** Situation where the average prices of goods and services is rising.
+
+Types of Inflation:
+- **Demand-Pull:** Occurs when demand for goods and services is greater than the
+supply
+- **Cost-Push:** Inflation that occurs when increases in production costs push
+up the prices of final goods and services
+
+##### Measuring Inflation
+
+**Consumer Price Index (CPI):** An index of the prices of a "shopping basket" of
+goods and services purchased by consumers.
+
+**Product Price Index (PPI):** An index of the prices paid by producers and
+wholesalers for various commodities such as raw materials, partially finished
+goods, and finished products.
+
+---
+
+### Bank of Canada's Usage of Monetary Policy, and How Governments Use Fiscal Policy to Achieve Macroeconomic Goals
+
+#### Monetary Policy
+Bank of Canada's programs for controlling the amount of money circulating in the
+economy and controlling interest rates.
+
+**Contractionary Policy:** Bank of Canada restricts or tightens the money supply
+by selling government securities or raising interest rates.
+
+**Expansionary Policy:** Bank of Canada increases, or loosens growth in the
+money supply, stimulating the economy. Interest rates decline, so business and
+consumer spending go up.
+
+#### Fiscal Policy
+The government's use of taxation and spending to affect the economy.
+
+**Spending:**
+
+**Taxation:**
