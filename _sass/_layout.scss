@@ -160,6 +160,10 @@ footer {
   & a:active {
     color: $background-color;
   }
+
+  & a:first-child:hover:after {
+    content: " ↑"
+  }
 }
 
 @media (max-width: 800px) and (orientation: portrait) {
