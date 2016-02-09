@@ -7,7 +7,7 @@ layout: default
     <p class="first">{{ page.desc }}</p>
     <hr>
     <div class="col one">
-      <p>{{ page.date }}</p>
+      <p>{{ page.date | date: "%b %-d, %Y" }}</p>
     </div>
     <div class="col one">
       <p>{{ page.category }}</p>

@@ -1,13 +1,17 @@
 ---
 layout: default
 ---
+{% for category in site.categories %}
+<h2>{{ category }}</h2>
 <ul class="post-list">
   {% for post in site.posts %}
     <li class="wrap">
       <p class="col one">{{ post.date | date: "%b %-d, %Y" }}</p>
       <h4 class="col one"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+      <p class="col one">{{ post.desc }}</p>
       <p class="col one">{{ post.categories }}</p>
     </li>
-    <hr class="col two push-1">
+    <!--<hr class="col two push-1">-->
   {% endfor %}
 </ul>
+{% endfor %}

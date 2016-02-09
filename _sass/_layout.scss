@@ -130,10 +130,14 @@ nav a, footer a {
   padding: 0;
   list-style-type: none;
 
-  & > .wrap > p:first-child {
+  & p:first-child {
     text-align: right;
   }
-  & > .wrap > h4 {
+  & p {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  & h4 {
     line-height: $spacing-unit * 3.5;
   }
 }
