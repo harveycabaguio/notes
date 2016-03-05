@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Chapter 4"
+desc:   "Technology and Business"
+date:   2016-02-09 10:15:00 -0600
+category: BUS-1201
+permalink: /bus-1201/chapter4/
+---
+
+##### Summary
+
+
+---
+
+### Why Information is So Important to business
+
+##### Information Technology (IT)
+Equipment and techniques used to manage and process information.
+
+##### Management Information Systems
+Discipline that involves the management of people, processes, and technology
+around information.
+
+##### Information System (IS)
+Combination of technology, people, and processes that an organization uses to
+produce and manage information.
+
+#### MIS Integration
+
+1. Receive input from the stakeholders (usually data)
+2. Classify and change the data into information
+3. Make sure that the right people have the right information at the right time
+4. Evaluate constantly the value of the technology used to ensure that it is
+optimal.
+
+#### The Value of E-Commerce
+
+**E-Commerce:** Using technology for business
+
+**E-Business:** Broader term that umbrellas EC as well as other electronic
+functions:
+
+- business to consumer (B2C)
+- business to business (B2B)
+- government to citizens (G2C) *Like doing tax returns*
+- government to business (G2B) *Like paying GST*
+- customer to customer (C2C) *kijiji or ebay, if you're looking for something*
+- mobile commerce (m-commerce) **

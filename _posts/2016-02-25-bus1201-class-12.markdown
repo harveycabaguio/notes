@@ -1,0 +1,124 @@
+---
+layout: post
+title:  "Chapter 7"
+desc:   "Analyzing the Business"
+date:   2016-02-25 10:15:00 -0600
+category: BUS-1201
+permalink: /bus-1201/chapter7/
+---
+
+### Describe the critical success factors and how to measure them
+
+#### Critical Success Factors
+- Encourage creativity and innovation
+- Achieving financial performance
+- Meet and exceed customers' needs
+- Provide value &mdash; quality products at reasonable price
+- Gain employee commitment
+
+---
+
+### SWOT Analysis, and how to use it
+
+#### SWOT
+Internal Factors
+
+__Strengths:__
+
+__Weaknesses:__
+
+External Factors
+
+__Opportunities:__
+Syrian refugees can attend the university
+
+__Threats:__
+Other colleges aren't really threats, but other universities that have the same demographic target as UofW do are a threat.
+
+#### Steps in SWOT
+1. Where have we been?
+  1. Past strats and structure. _See what worked for us._
+2. Where are we now?
+  1. What are the internal strengths and weaknesses?
+  2. How is the external environment affecting us?
+
+#### Porter's Five Forces Model
+1. Risk of new entry by potential competitors.
+2. Degree of rivalry among existing competitors. _Have some rivalry, but not be cut throat_
+3. The bargaining power of buyers.
+  - Number of buyers
+  - Switching costs to use another product of supplier
+  - Brand identity
+  - Threat of backward integration
+4. Bargaining power of suppliers. _More suppliers is better for businesses, because they won't get screwed by the one supplier_
+  - Number of suppliers
+  - Size of suppliers
+  - Product differentiation
+  - Buyers' switching costs
+  - Ability to substitute
+5. Threat of substitute products.
+  - Price difference
+  - Quality difference
+  - Performance difference
+  - Cost of switching
+  - Buyers' willingness to substitute
+
+---
+
+### Understand the basic framework for analyzing the business
+
+#### Analyzing the Strategy
+
+_What are the competencies and competitive advantages?_
+
+- What is the core strength?
+- What can we do better than the competition?
+- What distinctive advantage do we have that customers value?
+- Is there a sustainable competitive advantage?
+
+#### Analyzing the Corporate-level strategy
+
+__Vision:__ Clear concise picture of the company's future direction (used as guide and inspiration)
+
+_Like Red River's "classrooms of the future" not having those old overheads and use stuff like projectors_
+
+__Mission:__ Clear, concise articulation of how the company intends to achieve its vision and how it is different from the competition.
+
+_How are we different from everybody else, what will make people want to come here?_
+
+#### Analyze Business-level strategy
+
+How a company decides to compete in the businesses it chose to be in
+
+Porter's Five Forces have some generic competitive positions:
+
+- Cost leadership
+  - Superstore &mdash; cheap things
+- Product differentiation
+  - Tim Hortons &mdash; compared to Starbucks, Tim Hortons has more locations, and more to offer, and cheaper coffee
+- Focus differentiation
+  - Mr. Big & Tall &mdash; for people that are big and tall, because other stores don't serve people of that size very well, so they attracted a market of people
+
+---
+
+### Methods for analyzing the financial position of the company
+
+#### Financial Statements
+
+Pro forma financials (estimates future)
+
+Ration Analysis __(not on the test)__
+
+Cost/benefit analysis
+
+---
+
+### Trends in analyzing the business
+
+#### Future of Analyzing Business
+
+Customers
+
+Environment
+
+Society

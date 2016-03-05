@@ -2,7 +2,7 @@
 layout: post
 title:  "Chapter 8"
 desc:   "Forms of Business Ownership"
-date:   2016-02-02 11:15:00 -0600
+date:   2016-02-02 11:15:00
 category: BUS-1201
 permalink: /bus-1201/chapter8/
 ---

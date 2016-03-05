@@ -1,0 +1,108 @@
+---
+layout: post
+title:  "Chapter 6"
+desc:   "Developing a Business Strategy"
+date:   2016-01-06 16:00:00 -0600
+category: BUS-1202
+permalink: /bus-1202/chapter6/
+---
+
+### What is Business Strategy?
+
+### Importance of Developing a strategy within a business operation
+
+There are **two** fundamental principles in which the long term success of a business is based on.
+
+- Ability to create a strategic direction and market position for the organization (**strategic plan**)
+- Ability to execute the core tactical initiatives within the plan
+
+Strategy is all about knowing existing opportunities in the marketplace and which opportunities are the best to pursue
+
+Try to summarize strategy with the questions **Where do we want to play** and **How do we plan to win?** These two questions will be the beginnings of your intended or deliberate strategy
+
+1. What opportunities exist?
+2. What opportunities could we pursue?
+3. Which opportunities will we choose?
+4. What action path will we take?
+5. Intended or deliberate strategy
+
+---
+
+### key areas which business strategy is developed in
+
+#### Assessing business strategy
+
+- **Purpose:**
+  - _Mission &mdash;_ Organization's fundamental purpose or reason for existence. A Mission Statement identifies a company's broad goals
+  - _Vision &mdash;_ forward-thinking statement defining what a company wants to become and where it is going
+- **Markets:** Specific markets/market segments the business sees itself competing in
+- **Products & Services:** review of current and potential new products/services
+- **Resources:** allocation of business's resources in support of its strategic decisions
+- **Business System Configuration:** refers to modifying organization's infrastructure and its method of business to ensure success of the plan
+- **Responsibility & Accountability:** identifying key objectives to be achieved and who within the business is responsible for each aspect of the strategic plan
+
+---
+
+### fundamentals of strategy planning and implementation process
+
+#### Strategic Planning Process
+
+**Strategic plan = Road to success**
+
+A strategic plan defines the intended route of the business, provides benchmarks to measure success, identifies where and how the business interacts with customers to meet its mission & vision.
+
+The creation of a strategic plan is called the strategic planning process. This process is about observations, analysis, choices & actions.
+
+1. **Revisit our purpose:** Who are we and where do we want to go? Assess the fit of the current mission and vision of the org.
+2. **Internal and External Analysis:** Analyze the  company, customers, other competitors, and the macroeconomy. For macroeconomic analysis, use PESTEL. Use Porter's Five Forces when analyzing Industry. SWOT Analysis is best for competitors. Internal analysis of the company can also use SWOT, and 3C analysis. When analyzing customers, find changes in attitude, behaviour, and needs.
+3. **Identify opportunities and threats:** Using what we know about ourselves, customers, competitors, and the overall environment, what are the options and our competitive advantage(s)?
+4. **Define our objectives:** What are the best opportunities, given our market position, resources, and environmental dynamic? What threats must we respond to?
+5. **Implement strategy:** Develop a plan, define key performance indicators to monitor that plan, then execute it.
+
+#### What the models of analysis tells us
+
+##### PESTEL
+
+##### Porter's Five Forces
+
+<!-- ##### Types of Competition -->
+
+##### SWOT Analysis
+
+##### 3C Analysis
+
+---
+
+### unique strategy planning requirements of the not-for-profit sector
+
+#### Strategic planning in the Not-For-Profit sector
+
+NFPs must also develop strategies producing positive financial results, otherwise their operations cannot be sustained. Their strategies involve stronger inclusion of needs delivery based on the collective interest and social goals of a segment of society.
+
+NFP plans must respond to:
+
+- **Mission balance** &mdash; economic base versus social mission and goals
+- **Vitality** &mdash; the NFP's ability to grow and sustain its membership and donor base
+- **Collective Entrepreneurship** &mdash; ensuring that the community where the organization is located and the population it serves are reflected in the formulation and implementation of the strategy.
+- **Rootedness** &mdash; strengthening the partnerships and NFP networks that are supportive of the mission and work of the NFP.
+- **Operational Effectiveness** &mdash; operating in a manner that makes the products and services offered by the NFP accessible to the target social audience,
+
+#### Management Reflection &mdash; The Need to Plan
+
+##### _"Strategy without tactics is the long road to victory; tactics without strategy is the noise before defeat."_
+
+&mdash; Sun Tzu (The Art of War)
+
+Successful businesses take the time to plan how the business will be positioned in the marketplace and what markets it will serve, and then execute the critical components of the strat better than competitors.
+
+A businessman should know their competitive advantages, and how to leverage them.
+
+Successful strategies:
+
+- Properly assess the external environment
+- Define changes and opportunities within the markets the organization intends to serve
+- Effectively allocates resources and maximizes capabilities
+
+Successful organizations visualize strategy from the customer's perspective, understanding their key expectations and buying criteria.
+
+---

@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "Chapter 9"
+desc:   "Management and Leadership in Today's Organizations"
+date:   2016-03-01 10:15:00 -0600
+category: BUS-1201
+permalink: /bus-1201/chapter9/
+---
+
+### Differentiate between management and leadership
+
+#### Management
+
+Process of guiding the development, maintenance, and allocation of resources to achieve the organizational goals.
+
+**Leadership:** Relationship between a leader and followers who want real changes; the outcomes reflect their shared purposes.
+
+##### Authority
+Right to make decisions
+
+##### Responsibility
+Assignment of tasks
+
+##### Accountability
+Acceptance of success/failure
+
+#### Managerial Process
+
+- Anticipating
+- Coordinating Resources
+- Guiding Personnel
+- Reviewing/Changing
+
+---
+
+### Discuss the four types of planning
+
+---
+
+### List the primary responsibilities of managers in organizing activities
+
+---
+
+### Describe how leadership styles influence a corporate culture
+
+---
+
+### Examine how organizations control activities
+
+---
+
+### Summarize the roles managers take on in different organizational settings
+
+---
+
+### Identify the set of managerial skills necessary for managerial success
+
+---
+
+### List some of the trends that will affect management in the future

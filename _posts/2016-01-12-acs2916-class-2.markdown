@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Chapter 2"
+desc:   "Introduction to Business Application Systems"
+date:   2016-01-12 11:15:00 -0600
+category: ACS-2916
+permalink: /acs-2916/chapter2/
+---
+
+##### Summary
+
+
+---

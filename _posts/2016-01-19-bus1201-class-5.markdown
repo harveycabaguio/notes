@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Chapter 5"
+desc:   "International Business"
+date:   2016-01-19 11:15:00 -0600
+category: BUS-1201
+permalink: /bus-1201/chapter5/
+---
+
+##### Summary
+
+
+---
