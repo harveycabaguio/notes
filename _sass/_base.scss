@@ -55,9 +55,10 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5 {
+  color: $brand-color;
   font-family: $header-font-family;
   font-weight: lighter;
-  color: $brand-color;
+  text-transform: capitalize;
 }
 
 h1 {

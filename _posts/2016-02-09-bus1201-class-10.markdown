@@ -7,11 +7,6 @@ category: BUS-1201
 permalink: /bus-1201/chapter4/
 ---
 
-##### Summary
-
-
----
-
 ### Why Information is So Important to business
 
 ##### Information Technology (IT)
@@ -30,8 +25,7 @@ produce and manage information.
 1. Receive input from the stakeholders (usually data)
 2. Classify and change the data into information
 3. Make sure that the right people have the right information at the right time
-4. Evaluate constantly the value of the technology used to ensure that it is
-optimal.
+4. Evaluate constantly the value of the technology used to ensure that it is optimal.
 
 #### The Value of E-Commerce
 
@@ -40,9 +34,122 @@ optimal.
 **E-Business:** Broader term that umbrellas EC as well as other electronic
 functions:
 
-- business to consumer (B2C)
-- business to business (B2B)
-- government to citizens (G2C) *Like doing tax returns*
-- government to business (G2B) *Like paying GST*
-- customer to customer (C2C) *kijiji or ebay, if you're looking for something*
-- mobile commerce (m-commerce) **
+- *business to consumer (B2C) &mdash;* normal type of business, which like marriage, is the only one god will allow
+- *business to business (B2B) &mdash;* businesses focused on selling products/services to other businesses. I guess things like IT solutions (making info systems for other businesses) is an example.
+- *government to citizens (G2C) &mdash;* Like doing tax returns
+- *government to business (G2B) &mdash;* Like paying GST, using the web to provide all the necessary tax forms to businesses in order for them to pay their taxes efficiently
+- *customer to customer (C2C) &mdash;* kijiji or ebay, if you're looking for something, craiglist is another example
+- *mobile commerce (m-commerce) &mdash;* subset of e-commerce focused on mobile devices, things such as mobile banking and painless transactions through paying with one's device, and of course, being able to buy things online anywhere with your device
+
+---
+
+### How IT has transformed business and managerial decision making
+
+##### chief information officer (CIO)
+The executive responsible for managing all information resources and processes.
+
+##### knowledge worker
+Develops or uses knowledge, contributing to and benefitting from information used in performing various tasks.
+
+##### database
+Electronic filing system that collects and organizes data and information.
+
+---
+
+### types of systems that make up a typical company's management information system
+
+#### transaction-processing systems
+
+This system receives and organizes raw data from internal and external sources, and stores this in a database through 2 methods:
+
+**Batch Processing:** Data collected over a period of time then processed all together (Point of Sale (POS) machines).
+
+**Online (real time):** Processes data as soon as its collected (perpetual inventory systems).
+
+This allows the IS to handle the daily business operations of the company.
+
+#### management support systems
+
+IS that uses the internal master database to perform high level analysis to help managers make better decisions.
+
+**Data Warehouse:** An IT combining many databases across the whole company into one central DB that supports decision making.
+
+**Data Mart:** Subset of a data warehouse that deals with only one area of data for quick analysis
+
+#### Other systems
+
+##### decision support system (DSS)
+Helps managers make decisions by using interactive computer models describing real world processes. Basically helps managers answer "what if" questions.
+
+##### execeutive information system (EIS)
+Customized for an individual executive; provides specific information for strategic decisions.
+
+##### expert systems
+Using AI, gives managers advice similar to a human consultant's.
+
+##### office automation
+Usage of IT tools to improve communications through the organization.
+
+---
+
+### Why computer networks are an important part of today's IT systems
+
+#### Connecting near and far
+
+_Local Area Network (LAN) &mdash;_ a network that only covers a small physical area such as an office or school.
+
+_Metropolitan Area Network (MAN) &mdash;_ this is just an in-between description. Bigger than a LAN, smaller than a WAN.
+
+_Wide Area Network (WAN) &mdash;_ computer network covering a large geographical area, like a country. States and provinces are also acceptable sizes. Made up of the smaller LANs and MANs.
+
+##### Intranet
+Internal "Internet"
+
+##### Enterprise portals
+Customizes internal website that provides proprietary corporate information.
+
+##### virtual private networks
+Private corporation networks connected over a public network
+
+##### application service providers
+Service company that buys, maintains software, and distributes it to subscribers
+
+---
+
+### how technology management and planning can help companies optimize their IT systems
+
+#### Optimize
+**Knowledge Management (KM):** researching, gathering, organizing, and sharing an organization's collective knowledge to improve productivity, foster innovation, and gain competitive advantage.
+
+#### Software/System Development Life Cycle (SDLC)
+
+1. Requirement Analysis
+2. Design
+3. Implementation
+4. Testing
+5. Feedback
+6. Evolution
+
+#### Questions for IT project planning
+
+Again, too much shit, I'll put a few here tho:
+
+- What are the company's overall objectives?
+- What problems does the company want to solve?
+- How can technology help meet those goals and solve the problems?
+- What are the company's IT priorities, both short and long-term?
+- Which technologies meet the company's requirements?
+
+---
+
+### Best ways to protect computers and the information they contain
+
+bunch of bullshit that I probably will need but won't write here because its a fuckton of shit in one slide. I could probably just make shit up if this was on the test lol.
+
+---
+
+### Leading trends in IT
+
+- _Cyber sleuthing &mdash;_ fucking hell google is only giving me results for the game "Digimon Story: Cyber Sleuth" da fuck is this shit. Apparently just a reddit detective LOL.
+- _Distributed workforce &mdash;_ people will increasingly be able to work from anywhere because of all the technology.
+- _Grid computing offering powerful solutions &mdash;_

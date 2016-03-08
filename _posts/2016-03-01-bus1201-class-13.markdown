@@ -35,6 +35,16 @@ Acceptance of success/failure
 
 ### Discuss the four types of planning
 
+Planning is the process of deciding the tasks necessary to achieve organizational objectives, when, how, and by who it will be done.
+
+Strategic
+
+Tactical
+
+Operational
+
+Contingency
+
 ---
 
 ### List the primary responsibilities of managers in organizing activities
@@ -43,18 +53,123 @@ Acceptance of success/failure
 
 ### Describe how leadership styles influence a corporate culture
 
+**Leading** is the process of guiding and motivating others toward achieving organizational goals.
+
+**Sources of Power:**
+
+- Legitimate
+- Reward
+- _Referent:_ Power of appearance. At a hospital, you'd ask the person wearing a stethoscope for help with your sick child, instead of the guy with a mop wouldn't you?
+- _Expert:_ Can override the legitimate power because of their knowledge and expertise
+- _Coercive:_ Someone who will force the issue to get things done
+
+#### Leadership styles of management
+
+##### Autocratic
+
+
+##### Participative Style
+
+
+##### Free-Rein (Laissez-Faire)
+
+
+#### Empowerment
+Process of giving employees increased autonomy and discretion to make decisions and control over the resources needed to implement those decisions.
+
+_Example:_ At a hotel, if customer not satisfied with meal, server can redo the meal, if still not satisfied, manager can offer wine or free desert, if still not satisfied, can comp the entire meal, if that customer was an absolute bitch, hotel manager can comp guest into a higher suite.
+
+#### Corporate Culture
+Set of attitudes, values, and standards of behaviour that distinguishes one organization from another
+
 ---
 
 ### Examine how organizations control activities
+
+1. Set performance standards and goals
+2. Measure performance
+3. Compare actual performance to established performance standards
+4. Take corrective action
+5. Use information gained from the process to set up future performance standards
 
 ---
 
 ### Summarize the roles managers take on in different organizational settings
 
+#### Many roles that managers play in an organization
+
+##### Informational
+
+**Monitor:**
+
+**Disseminator:**
+
+**Spokesperson:**
+
+##### Interpersonal Roles
+
+**Figurehead:**
+
+**Leader:**
+
+**Liaison:**
+
+##### Decisional Rules
+
+**Entrepreneur:**
+
+**Disturbance Handler:**
+
+**Resource Allocator:**
+
+**Negotiator:**
+
+#### The Decision-Making Process
+
+1. Define the problem/recognize the opportunity
+2. Identify possible solutions/actions
+3. Select one or more alternative
+4. Put the plan into action
+5. Check plan effectiveness
+
 ---
 
 ### Identify the set of managerial skills necessary for managerial success
 
+#### Managerial Skills
+
+- **Technical Skills:** Specialized areas of knowledge and expertise
+- **Human Relations Skill:** Interpersonal skills
+- **Conceptual Skills:** Viewing the organization as a whole
+- _New:_ **Global Management Skills:** Ability to operate in diverse cultural environments
+
+#### Importance of Managerial Skills at Different Management Levels
+
+- Top Management
+  - Conceptual: ***
+  - Human: ***
+  - Technical: *
+- Middle Management
+  - Conceptual: **
+  - Human: ***
+  - Technical: **
+- Supervisory Management
+  - Conceptual: *
+  - Human: ***
+  - Technical: ***
+
+__***__ Very important
+
+__**__ Eh, important
+
+__*__ Not as important
+
 ---
 
 ### List some of the trends that will affect management in the future
+
+#### Future of Management and Leadership
+
+- _Crisis management &mdash;_ cannot predict what will happen in the future. Businesses must be able to plan for crisis as best as they can.
+- _Managers and information technology &mdash;_ be more used to technology and stuff, be able to keep up with new technologies.
+- _Managing in diverse cultural environments &mdash;_ Must be sensitive towards different cultures.
