@@ -35,7 +35,7 @@ p {
 
   &.first {
     text-align: center;
-    font-style: italic;
+    // font-style: italic;
   }
 }
 
@@ -72,7 +72,7 @@ h1 {
 }
 
 h2 {
-  margin-top: $spacing-unit;
+  margin-top: $spacing-unit * 2;
   margin-bottom: $spacing-unit * 0.5;
 
   font-size: $spacing-unit * 5;
@@ -80,7 +80,7 @@ h2 {
 }
 
 h3 {
-  margin-top: $spacing-unit;
+  margin-top: $spacing-unit * 2;
   margin-bottom: $spacing-unit * 0.5;
 
   font-size: $spacing-unit * 4;
@@ -88,7 +88,7 @@ h3 {
 }
 
 h4 {
-  margin-top: $spacing-unit;
+  margin-top: $spacing-unit * 2;
   margin-bottom: $spacing-unit * 0.5;
 
   font-size: $spacing-unit * 3;
@@ -96,7 +96,7 @@ h4 {
 }
 
 h5 {
-  margin-top: $spacing-unit * 0.5;
+  margin-top: $spacing-unit * 2;
 
   font-size: $spacing-unit * 2;
   line-height: $spacing-unit * 3;
@@ -135,8 +135,8 @@ a {
 }
 
 hr {
-  margin-top: $spacing-unit;
-  margin-bottom: $spacing-unit;
+  margin-top: $spacing-unit * 3;
+  margin-bottom: $spacing-unit * 2;
 
   border-top: 1px solid rgba($grey-color-light, 0.25);
   border-bottom: 1px solid rgba($grey-color-light, 0.25);

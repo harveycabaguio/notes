@@ -11,9 +11,11 @@ permalink: /bus-1201/chapter9/
 
 #### Management
 
-Process of guiding the development, maintenance, and allocation of resources to achieve the organizational goals.
+**Management:** Process of guiding the development, maintenance, and allocation of resources to achieve the organizational goals.
 
 **Leadership:** Relationship between a leader and followers who want real changes; the outcomes reflect their shared purposes.
+
+_A good leader will inspire people into following a goal and making sure they are motivated, while a good manager will make sure to direct that energy into making day-to-day tasks happen as they should._
 
 ##### Authority
 Right to make decisions
@@ -26,28 +28,83 @@ Acceptance of success/failure
 
 #### Managerial Process
 
-- Anticipating
-- Coordinating Resources
-- Guiding Personnel
-- Reviewing/Changing
+1. Anticipating _both_ problems and opportunities
+2. Coordinating Resources
+3. Guiding Personnel
+4. Reviewing/Changing
+
+#### Managerial Activities
+
+- Planning
+  - Set objectives and state mission
+  - Examine alternatives
+  - Determine necessary resources
+  - Create strategies to reach objectives
+- Motivating
+  - Lead and motivate employees to accomplish organizational goals
+  - Communicate with employees
+  - Resolve conflicts
+  - Manage change
+- Organizing
+  - Design jobs and specify tasks
+  - Create organizational structure
+  - Staff positions
+  - Coordinate work activities
+  - Set policies and procedures
+  - Allocate resources
+- Controlling
+  - Measure performance
+  - Compare performance to standards
+  - Take necessary action to improve performance
 
 ---
 
 ### Discuss the four types of planning
 
-Planning is the process of deciding the tasks necessary to achieve organizational objectives, when, how, and by who it will be done.
+**Planning** is the process of deciding the tasks necessary to achieve organizational objectives, when, how, and by who it will be done.
 
-Strategic
-
-Tactical
-
-Operational
-
-Contingency
+- Strategic
+  - _time frame:_ 1 - 5 years
+  - _level of management:_ The top (CEO, vice presidents, directors, division heads, etc)
+  - _extent of coverage:_ Entire org and external environment
+  - _purpose and goal:_ establish mission and long-term goals
+  - _breadth of content:_ broad and general
+  - _accuracy/predictability:_ High degree of uncertainty
+- Tactical
+  - Less than a year
+  - Middle management
+  - Strategic business units
+  - Establish mid-range goals for implementation
+  - More specific
+  - Moderate degree of certainty
+- Operational
+  - Current
+  - Supervisory management
+  - geographic and functional divisions
+  - implement and activate specific objectives
+  - specific and concrete
+  - reasonable degree of certainty
+- Contingency
+  - when event occurs or a situation demands
+  - top and middle management
+  - Entire org and external environment
+  - meet unforeseen challenges and opportunities
+  - both broad and detailed
+  - reasonable degree of certainty once event or situation occurs
 
 ---
 
 ### List the primary responsibilities of managers in organizing activities
+
+- **Division of Labour:** dividing up the tasks among employees and departments
+- **Departmentalization:** grouping jobs and employees together
+- **Delegation:** assigning authority and responsibilities to employees and departments
+
+#### The managerial pyramid
+
+1. **Top Management:** _Strategic Planning._ CEO, CFO, COO, CIO, President, etc
+2. **Middle Management:** _Tactical Planning._ Regional manager, division head, director, plant manager, sales manager, etc.
+3. **Supervisory Management:** _Operational Planning._ (First-line management) Supervisor, Team leader, foremen, etc.
 
 ---
 
@@ -57,16 +114,20 @@ Contingency
 
 **Sources of Power:**
 
-- Legitimate
-- Reward
-- _Referent:_ Power of appearance. At a hospital, you'd ask the person wearing a stethoscope for help with your sick child, instead of the guy with a mop wouldn't you?
-- _Expert:_ Can override the legitimate power because of their knowledge and expertise
-- _Coercive:_ Someone who will force the issue to get things done
+- _Legitimate &mdash;_ derived from an individual's position within the org. Being high ranked automatically gives a person presence
+- _Reward &mdash;_ person's control over rewards. Seems like any type of reward will do, like making a company is a "reward" that gives him power, coz you want to respect someone that will make your workplace successful.
+- _Referent &mdash;_ Power of appearance. At a hospital, you'd ask the person wearing a stethoscope for help with your sick child, instead of the guy with a mop wouldn't you? Not just appearance, but just charisma and admiration from others.
+- _Expert &mdash;_ Can override the legitimate power because of their knowledge and expertise.
+- _Coercive &mdash;_ Someone who will force the issue to get things done, because of negative outcomes that may occur.
 
 #### Leadership styles of management
 
 ##### Autocratic
+- Manager makes most decisions and acts in authoritative manner
+- Manager is usually unconcerned about subordinate's attitude toward decisions.
+- Emphasis on getting task accomplished.
 
+_Approach is used mostly by military officers and some production line supervisors._
 
 ##### Participative Style
 
