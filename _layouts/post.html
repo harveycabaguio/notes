@@ -3,15 +3,9 @@ layout: default
 ---
 <article class="wrap">
   <header class="col two push-1">
+    <p class="date center">{{ page.category }}, {{ page.date | date: "%b %-d, %Y" }}</p>
     <h1 itemprop="name headline">{{ page.title }}</h1>
-    <p class="first">{{ page.desc }}</p>
-    <hr>
-    <div class="col one">
-      <p>{{ page.date | date: "%b %-d, %Y" }}</p>
-    </div>
-    <div class="col one">
-      <p>{{ page.category }}</p>
-    </div>
+    <p class="center">{{ page.desc }}</p>
     <hr>
   </header>
   <div>

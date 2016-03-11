@@ -33,9 +33,12 @@ p {
   margin-bottom: $spacing-unit * 2;
   line-height: $spacing-unit * 2;
 
-  &.first {
+  &.center {
     text-align: center;
     // font-style: italic;
+  }
+  &.date {
+    opacity: 0.6;
   }
 }
 

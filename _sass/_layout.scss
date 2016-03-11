@@ -31,7 +31,7 @@
   left: 50vw;
 }
 
-@media (max-width: 420px) and (orientation: portrait) {
+@media (max-width: 420px) {
   .push-1, .push-2 {
     left: 0;
   }
@@ -40,17 +40,9 @@
       width: calc(100vw - (#{$spacing-unit} * 2));
     }
   }
-  nav .col {
-    margin-left: 0;
-    margin-right: 0;
-  }
-  footer .col {
-    margin-left: 0;
-    margin-right: 0;
-  }
 }
 
-@media (min-width: 421px) and (max-width: 800px) and (orientation: portrait) {
+@media (min-width: 421px) and (max-width: 800px) {
   .push-1, .push-2 {
     left: 12.5vw;
   }
@@ -83,14 +75,14 @@ article > div > * {
   }
 }
 
-@media (max-width: 420px) and (orientation: portrait) {
+@media (max-width: 420px) {
   article > div > * {
     left: 0;
     width: calc(100vw - (#{$spacing-unit} * 2));
   }
 }
 
-@media (min-width: 421px) and (max-width: 800px) and (orientation: portrait) {
+@media (min-width: 421px) and (max-width: 800px) {
   article > div > * {
     left: 12.5vw;
     width: calc(75vw - (#{$spacing-unit} * 2));
@@ -102,6 +94,11 @@ article > div > * {
  */
 nav {
   border-top: 2px solid $brand-color;
+
+  & .col {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 
 nav a.logo {
@@ -138,27 +135,17 @@ nav a, footer a {
   padding: 0;
   list-style-type: none;
 
-  & p:first-child {
-    text-align: right;
-    opacity: 0.6;
+  & li {
+    margin-bottom: $spacing-unit * 2;
   }
   & p {
     margin-top: 0;
     margin-bottom: 0;
   }
-  & h4 {
+  & h5 {
     line-height: 1;
     margin-top: $spacing-unit * 0.5;
     margin-bottom: $spacing-unit * 0.5;
-  }
-}
-
-@media (max-width: 420px) and (orientation: portrait) {
-  .post-list li .col.one:first-child {
-    text-align: left;
-  }
-  .post-list li {
-    margin-bottom: $spacing-unit * 2;
   }
 }
 
@@ -172,6 +159,10 @@ footer {
   border-bottom: 2px solid $brand-color;
   overflow-x: hidden;
 
+  & .col {
+    margin-left: 0;
+    margin-right: 0;
+  }
   & a:link {
     color: $text-color;
   }
@@ -190,13 +181,13 @@ footer {
   }
 }
 
-@media (max-width: 800px) and (orientation: portrait) {
+@media (max-width: 800px) {
   footer > div:first-child a:first-child:after {
     content: " ↑"
   }
 }
 
-@media (max-width: 800px) and (orientation: portrait) {
+@media (max-width: 800px) {
   body {
     padding-bottom: (60px * 3) + ($spacing-unit * 3);
   }

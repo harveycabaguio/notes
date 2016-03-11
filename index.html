@@ -1,15 +1,37 @@
 ---
 layout: default
 ---
-<h2>{{ category }}</h2>
-<ul class="post-list">
+<ul class="post-list col two push-1">
+  <h4 class="">Intro to Business I</h4>
   {% for post in site.posts %}
-    <li class="wrap">
-      <p class="col one">{{ post.date | date: "%b %-d, %Y" }}</p>
-      <h4 class="col one"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
-      <p class="col one">{{ post.desc }}</p>
-      <p class="col one">{{ post.categories }}</p>
-    </li>
-    <!--<hr class="col two push-1">-->
+    {% if post.category == 'BUS-1201' %}
+      <li class="">
+        <p class="date">{{ post.date | date: "%b %-d, %Y" }}</p>
+        <h5 class=""><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+        <p class="">{{ post.desc }}</p>
+      </li>
+    {% endif %}
+  {% endfor %}
+  <hr>
+  <h4 class="">Intro to Business II</h4>
+  {% for post in site.posts %}
+    {% if post.category == 'BUS-1202' %}
+      <li class="">
+        <p class="date">{{ post.date | date: "%b %-d, %Y" }}</p>
+        <h5 class=""><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+        <p class="">{{ post.desc }}</p>
+      </li>
+    {% endif %}
+  {% endfor %}
+  <hr>
+  <h4 class="">Intermediate Japanese</h4>
+  {% for post in site.posts %}
+    {% if post.category == 'EALC-2100' %}
+      <li class="">
+        <p class="date">{{ post.date | date: "%b %-d, %Y" }}</p>
+        <h5 class=""><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+        <p class="">{{ post.desc }}</p>
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
