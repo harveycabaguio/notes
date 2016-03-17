@@ -1,10 +1,17 @@
 <footer class="wrap">
   <div class="col one push-1">
-    <a href="#top" title="Go to the top of the page">&copy; {{ site.time | date: "%Y" }} Harvey Cabaguio</a>
+    <a data-scroll href="#top" title="Go to the top of the page">&copy; {{ site.time | date: "%Y" }} Harvey Cabaguio</a>
   </div>
   <div class="col one push-1">
     <a href="mailto:harveycabaguio@gmail.com">Email</a>
     <a href="https://github.com/harveycabaguio" target="_blank">Github</a>
     <a href="hhttps://plus.google.com/+HarveyCabaguio" target="_blank">Google+</a>
   </div>
+  <script>
+    smoothScroll.init({
+      speed: 369,
+      easing: 'easeInOutQuad',
+      updateURL: false
+    });
+  </script>
 </footer>

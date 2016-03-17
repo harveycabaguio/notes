@@ -2,35 +2,46 @@
 layout: default
 ---
 <ul class="post-list col two push-1">
-  <h4 class="">Intro to Business I</h4>
+  <h4>Intro to Business I</h4>
   {% for post in site.posts %}
     {% if post.category == 'BUS-1201' %}
-      <li class="">
+      <li>
         <p class="date">{{ post.date | date: "%b %-d, %Y" }}</p>
-        <h5 class=""><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
-        <p class="">{{ post.desc }}</p>
+        <h5><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h5>
+        <p>{{ post.desc }}</p>
       </li>
     {% endif %}
   {% endfor %}
   <hr>
-  <h4 class="">Intro to Business II</h4>
+  <h4>Intro to Business II</h4>
   {% for post in site.posts %}
     {% if post.category == 'BUS-1202' %}
-      <li class="">
+      <li>
         <p class="date">{{ post.date | date: "%b %-d, %Y" }}</p>
-        <h5 class=""><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
-        <p class="">{{ post.desc }}</p>
+        <h5><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h5>
+        <p>{{ post.desc }}</p>
       </li>
     {% endif %}
   {% endfor %}
   <hr>
-  <h4 class="">Intermediate Japanese</h4>
+  <h4>Intermediate Japanese</h4>
   {% for post in site.posts %}
     {% if post.category == 'EALC-2100' %}
-      <li class="">
+      <li>
         <p class="date">{{ post.date | date: "%b %-d, %Y" }}</p>
-        <h5 class=""><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
-        <p class="">{{ post.desc }}</p>
+        <h5><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h5>
+        <p>{{ post.desc }}</p>
+      </li>
+    {% endif %}
+  {% endfor %}
+  <hr>
+  <h4>Unix</h4>
+  {% for post in site.posts %}
+    {% if post.category == 'ACS-2941' %}
+      <li>
+        <p class="date">{{ post.date | date: "%b %-d, %Y" }}</p>
+        <h5><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h5>
+        <p>{{ post.desc }}</p>
       </li>
     {% endif %}
   {% endfor %}

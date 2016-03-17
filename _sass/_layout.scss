@@ -78,7 +78,13 @@ article > div > * {
 @media (max-width: 420px) {
   article > div > * {
     left: 0;
-    width: calc(100vw - (#{$spacing-unit} * 2));
+    width: calc(100vw - (#{$spacing-unit} * 3));
+  }
+  article > div > table {
+    width: calc(100vw - (#{$spacing-unit} * 3));
+  }
+  td {
+    width: calc(50vw - (#{$spacing-unit} * 3));
   }
 }
 
