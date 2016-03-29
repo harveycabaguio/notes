@@ -1,44 +1,27 @@
 /*
  * Grid
  */
-.wrap {
-  display: -webkit-box;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  width: 100vw;
-  max-width: 100%; /* fixes scrollbar problem */
-}
+ .wrap {
+   display: -webkit-box;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   width: 100vw;
+   max-width: 100%; /* fixes scrollbar problem */
+ }
 
 .col {
   position: relative;
-  margin-left: $spacing-unit;
-  margin-right: $spacing-unit;
-
-  &.one {
-    width: calc(25vw - (#{$spacing-unit} * 2));
-  }
-
-  &.two {
-    width: calc(50vw - (#{$spacing-unit} * 2));
-  }
-}
-
-.push-1 {
-  left: 25vw;
-}
-.push-2{
-  left: 50vw;
+  margin-left: auto;
+  margin-right: auto;
+  width: calc(75vw - (#{$spacing-unit} * 2));
 }
 
 @media (max-width: 420px) {
-  .push-1, .push-2 {
-    left: 0;
-  }
   .col {
-    &.one, &.two {
-      width: calc(100vw - (#{$spacing-unit} * 2));
-    }
+    width: calc(100vw - (#{$spacing-unit} * 2));
+    margin-left: $spacing-unit;
+    margin-right: $spacing-unit;
   }
 }
 
@@ -100,11 +83,6 @@ article > div > * {
  */
 nav {
   border-top: 2px solid $brand-color;
-
-  & .col {
-    margin-left: 0;
-    margin-right: 0;
-  }
 }
 
 nav a.logo {
@@ -165,10 +143,6 @@ footer {
   border-bottom: 2px solid $brand-color;
   overflow-x: hidden;
 
-  & .col {
-    margin-left: 0;
-    margin-right: 0;
-  }
   & a:link {
     color: $text-color;
   }
