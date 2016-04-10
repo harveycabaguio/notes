@@ -1,0 +1,243 @@
+---
+layout: post
+title:  "Chapter 12"
+desc:   "Managing Human Resources and Labour Relations"
+date:   2016-03-29 9:15:00 -0600
+category: BUS-1201
+permalink: /bus-1201/chapter12/
+---
+
+### Human Resource Managment process, and how human resource needs are determined
+
+The process of hiring, developing, motivating, and evaluating employees to achieve organizational goals.
+
+1. Strategies, goals, and market position
+2. Job analysis and design/HR planning and forecasting:
+
+   Determining the right number of people who have the right training, and are in the right jobs. HR specialists must determine future human resource needs and assess current employees to see if new people must be hired or current employees need to be retrained.
+
+3. Employee recruitment:
+
+   Advertise the skills that is needed. To do this, a job analysis (study of the tasks required to do a particular job well) must be conducted.
+
+4. Employee selection:
+
+   Must advertise in the right places to reach the right audience. Like Red River College advertised needing mechanics to teach auto-mechanics in career sites, not trades websites
+
+5. Training and development
+
+6. Performance planning and evaluation:
+
+   People must know what they're expected to do, how they do it, and how often it must be done. Then when this is known, people can be evaluated on these criteria.
+
+7. Compensation and benefits
+
+8. HR Outcomes
+
+This process determines **retention/turnover** _&mdash; not a good idea to have 0 turnover, or too much turnover. New perspectives need to come in occasionally._
+
+#### Human Resource planning (HRP)
+
+##### Job Analysis
+Study of tasks required to do a job well
+
+##### Job Description
+List of tasks/responsibilities of a job
+
+##### Job Specifications
+List of skills, knowledge, and abilities a person must have to fill the job.
+
+#### HRP and forecasting
+
+Determining the number of people needed by some future time, also known as a _demand forecast_. Need to know how many people are needed and what skills they require by  some future time. Estimate out of the number of people currently involved, who will be available to fill jobs at some future time.
+
+1. Corporate strategy and policy
+2. Human resource objectives and policies
+   1. _Human Resource Demand Forecast_ **is compared** with the _Internal Supply Forecast_
+     - if no difference: requirement equals supply, all is good
+     - else:
+       - if surplus of employees:
+         1. Reassign
+         2. Lay off
+         3. Terminate
+         4. Retire
+       - if shortage of employees:
+         1. Hire
+         2. Pay overtime
+         3. Subcontract
+
+Then back to 2.
+
+---
+
+### how companies recruit applicants
+
+**Internal:** Policy of promotion or job transfer from within. No new perspective gained from this usually. Can cause bad blood between employees (why was he promoted and not me?). But, can be useful as this person already understands company processes and stuff.
+
+**External:** Find/attract qualified applicants from external sources.
+
+- Electronic job board
+- Advertising
+- Search company
+- "speed networking"
+- Job fair
+- Open houses
+
+---
+
+### how companies select qualified applicants
+
+1. Initial screening:
+
+   Applicants filling out an application form that has questions about education, work experience, previous job experience, or submits a resume. Then an interview where an employer asks applicants specific questions.
+
+2. Employee testing:
+
+   Along with an interview, tests can be conducted to measure specific job skills.
+
+3. Selection interview:
+
+   A very in-depth interview about the applicant's work experience, skills and abilities, education, and career interests. Applicants can be asked how to solve a certain problem or how they provided leadership in a group situation when a problem had to be resolved right away.
+
+4. Background and reference checks:
+
+   When an applicant passes the selection interview, companies check their references and background. This is especially important for certain jobs such as retail, where employees interact with customers everyday.
+
+5. Physical examination:
+
+   Some jobs require a medical check-up to make sure that the applicant is capable of performing at the job.
+
+6. Decision to hire:
+
+   When the applicant is satisfactory in all the steps (and no one was better than them) the decision to hire them is made. This decision is made by the manager of this new employee.e
+
+---
+
+### types of training and development programs organizations offer their employees
+
+#### Employee training and development process
+
+1. Training Objective
+2. Design training program
+3. Conduct training program
+4. Training program evaluation
+
+And throughout the process needs assessment, give feedback at each step.
+
+#### types of training
+
+##### On-the-Job
+- **Orientation:** Training for new employees that gives them information about job assignments, work rules, equipment, and  performance expectations and possibly, company policies, salary benefits, and parking.
+- **Job rotation:** Reassigning several employees to different jobs in the company over time in order for them to learn the basics of each job.
+- **Apprenticeship:** On-the-job training combining job instruction with classroom instruction.
+- **Mentoring:** Similar to apprenticeship, but classroom instruction is replaced by an
+
+##### Off-the-Job
+- **Programmed instruction:** learning various concepts and problems through a computer-assisted method that allows an employee to learn at their own pace.
+- **Simulation:** scaled-down version or mock-up of equipment, process, or work environment. Example would be flight simulators for pilots.
+
+---
+
+### how performance appraisals are used to evaluate employee performance
+
+**Performance appraisal** is a comparison of how an employee is supposed to perform versus how they are actually performing, and then making decisions about training, compensation, promotion, etc. It does not only have to be the immediate supervisor who evaluates the employee's performance, it can be peers, customers, or other supervisors.
+
+1. Performance standards are established.
+2. Employee works to meet standards and expectations.
+3. Supervisor evaluates the employee's work in terms of quality and quantity of output and other various characteristics such as job knowledge, initiative, relationships with others, attendance and punctuality.
+4. Following the performance evaluation, rewards such as pay raise or job promotion decisions can be made.
+5. Rewards are positive feedback, reinforcing or encouraging employees to work harder in the future.
+
+---
+
+### various methods for compensating employees
+
+#### Factors affecting employee pay
+
+##### pay structure and internal influences
+Wages, salaries, and benefits typically reflect importance of job; jobs considered more important by management are compensated better.
+
+##### pay level and external influences
+While management might have its own priorities in which positions are important, they must consider how other companies pay their employees, else losing their best employees. Most companies offer competitive wages within a geographic area or industry.
+
+#### Types of compensation
+
+##### Direct compensation
+Wage or salary received by the employee
+
+##### Indirect compensation
+Various employee benefits and services.
+
+- Hourly wages:
+
+  Vary depending on job position and job market. In Canada, each province and territory are responsible for setting a minimum hourly wage.
+
+- Salaries:
+
+  Managerial and professional employees paid an annual salary on either biweekly or monthly basis.
+
+- Piecework & commission:
+
+  Paid according to how much they sell or produce. Like a car salesman paid _$x_ for each car they sell or _x%_ of the car's sale price.
+
+- Accelerated commission schedule:
+
+  To give incentive to produce more sales, a salesperson can be paid _x%_ on the first _$x_, _x+1%_ on the next _$y_, _x+2%_ on the next _$z_.
+
+- Bonus:
+
+  Payment for reaching specific goal, may be paid on monthly, quarterly, or annual basis. Employees must function as a high-performing team to reach monthly goals, in order to receive individual bonuses.
+
+- Profit sharing:
+
+  Company pays employees portion of profits made over a certain threshold.
+
+- Fringe benefits:
+
+  Indirect compensations, including pensions, health insurance, vacations, etc. Some of these benefits are required by law (vacations, holidays, employment insurance, CPP).
+
+---
+
+### how labour-management relations are different in a unionized environment
+
+#### Labour unions
+An organization that represents workers in dealing with management. Deals with management over issues involving wages, hours, and working conditions.
+
+##### Collective bargaining
+Process of negotiating labour agreements that provide for compensation and working arrangements mutually acceptable to the union and management.
+
+##### local union
+Branch or unit of a national union that represents workers at a specific geographic area.
+
+##### national union
+Union consisting of many local unions in a particular industry, skilled trade, or geographic area and thus represents workers through out an entire country.
+
+##### shop steward
+Elected union official who represents union members to management when workers have issues.
+
+#### Process of negotiating labour agreements
+1. Employer and Union make bargaining preparations
+2. Exchange initial demands and proposals
+3. Create bargaining agenda out of demands and proposals, a list of contract issues that will be discussed
+4. Bargaining compromise, concession, and tentative agreement.
+   - Must be approved by top-management and union members
+   - If union members do not approve:
+     - Can strike
+     - Then resume bargaining
+
+#### issues in collective bargaining
+
+##### Union Security
+Unions believe the best set up is **closed shop**, where a company can only hire union members, making the union a pseudo-agency for the companies. The most common setup today is **union shop** where companies can hire outside of the union, but the new hires must join the union within 30 or 60 days.
+
+There is also **agency shop**, where employees are not required to join a union, but must pay the union a fee to represent them. An **open shop** is a company where employees do not have to join a union or pay them fees to work at the company.
+
+##### Management rights
+When becoming unionized, management loses some rights in terms of decision making. One way to lessen union influence is to include a _management rights clause_ in the labour agreement, protecting all the rights an employer has to manage a business except as specified in the contract.
+
+##### wages and benefits
+
+
+---
+
+### key laws and federal agencies affecting HRM and labour relations
